@@ -1,6 +1,11 @@
 .bundle
 .sass-cache
 Gemfile.lock
-_site
 *.gem
 vendor
+_site/README.md
+_site/CODE_OF_CONDUCT.md
+_site/History.markdown
+_site/feed.xml
+_site/minima.gemspec
+_site/script/
