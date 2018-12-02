@@ -14,10 +14,12 @@ The goal of this initiative is to establish a common forum for both the Web and 
 
 We invite researchers and practitioners to imagine, design, build, evaluate, and share their thoughts and visions on what the future of the Web for both people and autonomous agents will be.
 
-HyperAgents 2019 solicits contributions in all areas related to autonomous systems on the Web, and in particular (see complete [list of topics](topics/) and [CFP](HyperAgents2019_CFP.txt)):
+HyperAgents 2019 solicits contributions in all areas related to autonomous systems on the Web, and in particular (see complete [list of topics](/topics/) and [CFP](/HyperAgents2019_CFP.txt)):
 * architectural styles and design of hypermedia MAS
 * autonomous agents in hypermedia MAS
 * governance in hypermedia MAS
 * hybrid communities (people &amp; autonomous agents) in hypermedia MAS
 * tooling &amp; applications of hypermedia MAS
 * (...)
+
+Paper submission deadline: January 11, 2019 (see all [important dates](/dates/)).
