@@ -5,7 +5,7 @@ permalink: /topics/
 ---
 The themes and topics of interest for HyperAgents 2019 include, but are not limited to:
 
-<h4>Architectural Styles and Design of Hypermedia MAS</h4>
+#### Architectural Styles and Design of Hypermedia MAS
 * Design principles, models, and architectures for hypermedia MAS
 * Semantic Web, Linked Data and knowledge graphs for autonomous agents
 * WoT and physical environments for autonomous agents
@@ -16,7 +16,7 @@ The themes and topics of interest for HyperAgents 2019 include, but are not limi
 * Re-decentralization and distributed AI on the Web
 * WebRTC &amp; peer-to-peer Web for hypermedia MAS
 
-<h4>Autonomous Agents in Hypermedia MAS</h4>
+#### Autonomous Agents in Hypermedia MAS
 * Architectures and programming languages for autonomous hypermedia agents
 * Linked data programming for autonomous agents
 * Context-aware agents in hypermedia MAS
@@ -26,7 +26,7 @@ The themes and topics of interest for HyperAgents 2019 include, but are not limi
 * Integration of heterogeneous AI methods in hypermedia MAS
 * Models and mechanisms for agent coordination
 
-<h4>Governance in Hypermedia MAS</h4>
+#### Governance in Hypermedia MAS
 * Norm-aware agents in hypermedia MAS
 * Hypermedia-based representation and advertising of norms in MAS
 * Reasoning on data licensing policies, terms of services, etc.
@@ -35,7 +35,7 @@ The themes and topics of interest for HyperAgents 2019 include, but are not limi
 * Trust and responsible agents
 * Web-scale open organizations of autonomous agents
 
-<h4>Hybrid Communities (People &amp; Autonomous Agents) in Hypermedia MAS</h4>
+#### Hybrid Communities (People &amp; Autonomous Agents) in Hypermedia MAS
 * Bridging formal semantics and social semantics (e.g., ontologies and folksonomies)
 * Web-based collective programming, customization, and maintenance of hypermedia MAS
 * Hybrid social constructs for supporting autonomous reasoning and interaction
@@ -43,7 +43,7 @@ The themes and topics of interest for HyperAgents 2019 include, but are not limi
 * Collective interaction models and agreement in hybrid communities
 * Mixed reality for hypermedia MAS (e.g., interactions, monitoring, configuration)
 
-<h4>Tooling &amp; Applications of Hypermedia MAS</h4>
+#### Tooling &amp; Applications of Hypermedia MAS
 * Programming frameworks, platforms, and other tooling for hypermedia MAS
 * Hybrid communities in the Web of Things (industrial manufacturing, home and building automation, smart grids, etc.)
 * Hybrid communities for enhanced social media (mitigating fake news propagation, online bullying, etc.)
