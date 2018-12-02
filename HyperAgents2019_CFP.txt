@@ -67,14 +67,14 @@ HyperAgents 2019 solicits contributions in all areas related to Web-based MAS. W
 -- Hybrid communities for enhanced linked research (e.g., curating, sharing, and maintaining corpora and datasets)
 -- Hybrid communities for rewiring the Web
 
-The workshop will provide an interactive forum for Web and MAS researchers to learn about and discuss existing efforts related to Web-based MAS. In order to ensure a high-quality technical session, submissions must cover one of the topics above and can be either regular papers (max. 8 pages) or short papers (max. 4 pages) in ACM conference format. Research papers must be original prior unpublished work and not under review elsewhere as they will be published to the ACM digital library and listed on DBLP. All submissions will be peer-reviewed and selected based on their originality, merit, and relevance to the workshop. Submission requires at least one author to present the paper on-site. If you can, we encourage authors of accepted papers to bring a prototype and demonstrate it at the workshop.
+In order to ensure a high-quality technical session, submissions must cover one of the topics above. Authors can submit two types of papers: regular papers (max. 8 pages) and short papers (max. 4 pages) in ACM conference format. All research papers must be original prior unpublished work and not under review elsewhere. Accepted papers will be published in a [CEUR](http://ceur-ws.org/) volume and listed on DBLP. All submissions will be peer-reviewed and selected based on their originality, merit, and relevance to the workshop. Submission requires at least one author to present the paper on-site. If you can, we encourage authors of accepted papers to bring a prototype and demonstrate it at the workshop.
 
 For more instructions on how to submit to HyperAgents 2019, visit http://www.hyperagents.org/
 
 
 -- Organizers
 
-Andrei Ciortea, University of St. Gallen, Switzerland, http://andreiciortea.ro
+Andrei Ciortea, University of St. Gallen, Switzerland, http://andreiciortea.ro/
 Simon Mayer, University of St. Gallen, Switzerland
 Fabien Gandon, Inria, Université Côte d’Azur, CNRS, I3S, France, http://fabien.info/
 Olivier Boissier, Univ. Lyon, MINES Saint-Étienne, CNRS Lab Hubert Curien UMR 5516, France, https://www.emse.fr/~boissier/
