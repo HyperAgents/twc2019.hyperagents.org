@@ -4,8 +4,9 @@ title: HyperAgents 2019
 description: > # this means to ignore newlines until "twitter_username:"
   Creating a Global Collective Intelligence on the Web
 
-
 #baseurl: /twc2019.hyperagents.org/
+
+google_analytics: UA-130303225-1
 
 # social links
 twitter_username: hyperagents
