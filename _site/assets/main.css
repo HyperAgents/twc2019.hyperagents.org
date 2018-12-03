@@ -202,8 +202,7 @@ table {
   font-size: 26px;
   font-weight: 300;
   letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left; }
+  margin-bottom: 0; }
   @media screen and (max-width: 600px) {
     .site-title {
       padding-right: 45px; } }
