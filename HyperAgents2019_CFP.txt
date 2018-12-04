@@ -74,7 +74,7 @@ For more instructions on how to submit to HyperAgents 2019, visit http://www.hyp
 
 -- Organizers
 
-Andrei Ciortea, University of St. Gallen, Switzerland, http://andreiciortea.ro/
+Andrei Ciortea, University of St. Gallen, Switzerland
 Simon Mayer, University of St. Gallen, Switzerland
-Fabien Gandon, Inria, Université Côte d’Azur, CNRS, I3S, France, http://fabien.info/
-Olivier Boissier, Univ. Lyon, MINES Saint-Étienne, CNRS Lab Hubert Curien UMR 5516, France, https://www.emse.fr/~boissier/
+Fabien Gandon, Inria, Université Côte d’Azur, CNRS, I3S, France
+Olivier Boissier, Univ. Lyon, MINES Saint-Étienne, CNRS Lab Hubert Curien UMR 5516, France
