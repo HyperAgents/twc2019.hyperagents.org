@@ -20,7 +20,7 @@ Workshop date: TBD (May 13-14, 2019)
 
 -- Contributing to HyperAgents 2019
 
-HyperAgents 2019 solicits contributions in all areas related to Web-based MAS. We invite researchers and practitioners to imagine, design, build, evaluate, and share their thoughts and visions on what the future of the Web for both people and autonomous agents will be.
+HyperAgents 2019 solicits contributions in all areas related to autonomous systems on the Web. We invite researchers and practitioners to imagine, design, build, evaluate, and share their thoughts and visions on what the future of the Web for both people and autonomous agents will be.
 
 - Architectural Styles and Design of Hypermedia MAS
 -- Design principles, models, and architectures for hypermedia MAS
