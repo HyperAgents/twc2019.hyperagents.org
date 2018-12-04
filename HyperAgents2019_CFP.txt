@@ -12,10 +12,10 @@ The goal of this initiative is to establish a common forum for both the Web and 
 
 -- Important Dates
 
-Paper submission deadline: February 10, 2019
-Notification of acceptance: March 10, 2019
-Camera-ready papers due: April 10, 2019
-Workshop date: tbd (May 13-14, 2019)
+Paper submission deadline: January 27, 2019
+Notification of acceptance: February 17, 2019
+Camera-ready papers due: March 3, 2019
+Workshop date: TBD (May 13-14, 2019)
 
 
 -- Contributing to HyperAgents 2019
@@ -67,7 +67,7 @@ HyperAgents 2019 solicits contributions in all areas related to Web-based MAS. W
 -- Hybrid communities for enhanced linked research (e.g., curating, sharing, and maintaining corpora and datasets)
 -- Hybrid communities for rewiring the Web
 
-In order to ensure a high-quality technical session, submissions must cover one of the topics above. Authors can submit two types of papers: regular papers (max. 8 pages) and short papers (max. 4 pages) in ACM conference format. All research papers must be original prior unpublished work and not under review elsewhere. Accepted papers will be published in a [CEUR](http://ceur-ws.org/) volume and listed on DBLP. All submissions will be peer-reviewed and selected based on their originality, merit, and relevance to the workshop. Submission requires at least one author to present the paper on-site. If you can, we encourage authors of accepted papers to bring a prototype and demonstrate it at the workshop.
+In order to ensure a high-quality technical session, submissions must cover one of the topics above. Authors can submit two types of papers: regular papers (max. 8 pages) and short papers (max. 4 pages) in ACM conference format. All research papers must be original prior unpublished work and not under review elsewhere. All submissions will be peer-reviewed and selected based on their originality, merit, and relevance to the workshop. Accepted papers will be published jointly with the proceedings of The Web Conference 2019. Submission requires at least one author to present the paper on-site. If you can, we encourage authors of accepted papers to bring a prototype and demonstrate it at the workshop.
 
 For more instructions on how to submit to HyperAgents 2019, visit http://www.hyperagents.org/
 
