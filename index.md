@@ -5,7 +5,7 @@ layout: home
 <h1>Workshop on Hypermedia Multi-Agent Systems</h1>
 
 <div style="margin-top: -10px;">
-	<p>In conjunction with <a href="https://www2019.thewebconf.org/" target="_blank">The Web Conference 2019</a> (San Francisco, May 13-14, 2019)</p>
+	<p>In conjunction with <a href="https://www2019.thewebconf.org/" target="_blank">The Web Conference 2019</a> (San Francisco, May 13, 2019)</p>
 </div>
 
 Hypermedia is increasingly used in Web service design, particularly in Linked Data and Web of Things systems where the use of static service contracts is not practical. This evolution raises new challenges: to discover, consume, and integrate hypermedia services at runtime, clients have to become increasingly autonomous in pursuit of their design goals. Such autonomous systems have been studied to a large extent in research on multi-agent systems (MAS). To consolidate the evolution of hypermedia services, it is now necessary to have comprehensive discussions on integrating hypermedia systems and MAS, henceforth *hypermedia MAS*.
@@ -21,5 +21,7 @@ To contribute to HyperAgents 2019, see the [proposed topics](/topics/) and [subm
 | Paper submission deadline: | January 27, 2019 |
 | Notification of acceptance: | February 17, 2019 |
 | Camera-ready papers due: | March 3, 2019 |
-| Workshop date: | TBD (May 13-14, 2019) |
+| Workshop date: | May 13, 2019 |
 |---|---|
+
+<p>Sponsors: <img src="/assets/siemens-logo.png" alt="Siemens" style="display: block; margin-left: auto; margin-right: auto; width: 250px;"></p>
