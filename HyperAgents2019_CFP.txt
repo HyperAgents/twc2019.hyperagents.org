@@ -1,5 +1,5 @@
 CALL FOR PAPERS - Workshop on Hypermedia Multi-Agent Systems (HyperAgents 2019)
-in conjunction with The Web Conference 2019, San Francisco, California, USA, May 13-17, 2019.
+in conjunction with The Web Conference 2019 - San Francisco, May 13, 2019 (14:00 - 17:30).
 http://www.hyperagents.org/
 
 
@@ -15,7 +15,7 @@ The goal of this initiative is to establish a common forum for both the Web and 
 Paper submission deadline: February 12, 2019
 Notification of acceptance: February 24, 2019
 Camera-ready papers due: March 3, 2019
-Workshop date: May 13, 2019
+Workshop date: May 13, 2019 (14:00 - 17:30)
 
 
 -- Contributing to HyperAgents 2019
