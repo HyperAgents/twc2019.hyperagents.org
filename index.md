@@ -18,7 +18,7 @@ To contribute to HyperAgents 2019, see the [proposed topics](/topics/) and [subm
 
 | Important Dates ||
 |---|---|
-| Paper submission deadline: | ~~January 27, 2019~~ February 12, 2019 (final deadline) |
+| Paper submission deadline: | ~~January 27, 2019~~ February 12, 2019 |
 | Notification of acceptance: | ~~February 17, 2019~~ February 24, 2019 |
 | Camera-ready papers due: | March 3, 2019 |
 | Workshop date: | May 13, 2019 |
