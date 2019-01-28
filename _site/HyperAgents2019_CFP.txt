@@ -12,10 +12,10 @@ The goal of this initiative is to establish a common forum for both the Web and 
 
 -- Important Dates
 
-Paper submission deadline: January 27, 2019
-Notification of acceptance: February 17, 2019
+Paper submission deadline: February 12, 2019 (final extended deadline)
+Notification of acceptance: February 24, 2019
 Camera-ready papers due: March 3, 2019
-Workshop date: TBD (May 13-14, 2019)
+Workshop date: May 13, 2019
 
 
 -- Contributing to HyperAgents 2019

@@ -11,8 +11,8 @@ Please submit papers through EasyChair: [http://easychair.org/conferences/?conf=
 
 | Important Dates ||
 |---|---|
-| Paper submission deadline: | January 27, 2019 |
-| Notification of acceptance: | February 17, 2019 |
+| Paper submission deadline: | ~~January 27, 2019~~ February 12, 2019 (final deadline) |
+| Notification of acceptance: | ~~February 17, 2019~~ February 24, 2019 |
 | Camera-ready papers due: | March 3, 2019 |
 | Workshop date: | May 13, 2019 |
 |---|---|
