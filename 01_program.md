@@ -13,7 +13,7 @@ permalink: /program/
 	</tr>
 	<tr>
 		<td>14:20</td>
-		<td> Invited contribution: TBA (Alessandro Ricci)</td>
+		<td>Invited contribution: TBA (Alessandro Ricci)</td>
 	</tr>
 	<tr>
 		<td>14:50</td>
@@ -41,7 +41,11 @@ permalink: /program/
 	</tr>
 	<tr>
 		<td>17:10</td>
-		<td> Breakout Discussions </td>
+		<td>Breakout Discussions</td>
+	</tr>
+	<tr>
+		<td>17:25</td>
+		<td>Wrap up</td>
 	</tr>
 	<tr style="background-color: #dddddd">
 		<td></td>
