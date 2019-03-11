@@ -37,7 +37,7 @@ permalink: /program/
 	</tr>
 	<tr>
 		<td>17:00</td>
-		<td> 1-min Madness </td>
+		<td> 1 Minute Madness </td>
 	</tr>
 	<tr>
 		<td>17:10</td>
