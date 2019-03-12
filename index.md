@@ -14,7 +14,10 @@ The goal of this initiative is to establish a common forum for both the Web and 
 
 We invite researchers and practitioners to imagine, design, build, evaluate, and share their thoughts and visions on what the future of the Web for both people and autonomous agents will be.
 
-To contribute to HyperAgents 2019, see the [proposed topics](/topics/) and [submission instructions](/submissions/) ([full CFP](/HyperAgents2019_CFP.txt){:target="_blank"}).
+<!-- To contribute to HyperAgents 2019, see the [proposed topics](/topics/) and [submission instructions](/submissions/) ([full CFP](/HyperAgents2019_CFP.txt){:target="_blank"}).-->
+
+The preliminary [workshop program](/program/) is now available.
+
 
 | Important Dates ||
 |---|---|

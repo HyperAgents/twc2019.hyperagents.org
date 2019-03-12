@@ -5,6 +5,8 @@ permalink: /program/
 ---
 (Preliminary)
 
+
+
 <table>
 	<thead></thead>
 	<tr>
@@ -33,11 +35,15 @@ permalink: /program/
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td>Dual Keynote: Florian Michahelles (TBA), Mike Amundsen (TBA)</td>
+		<td>Dual Keynote: Florian Michahelles (TBA)</td>
+	</tr>
+	<tr>
+		<td>16:30</td>
+		<td>Dual Keynote: Mike Amundsen (TBA)</td>
 	</tr>
 	<tr>
 		<td>17:00</td>
-		<td> 1 Minute Madness and Breakout Discussions</td>
+		<td><a href="https://docs.google.com/forms/d/e/1FAIpQLScCypPvCgcFV54OWxduftHbWhBwJrsEFiJTZR8yDNS17pYf2A/viewform" target="_blank">1 Minute Madness</a> and Breakout Discussions</td>
 	</tr>
 	<tr>
 		<td>17:25</td>
