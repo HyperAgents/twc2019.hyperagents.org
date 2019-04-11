@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preliminary Program
+title: Program
 permalink: /program/
 ---
 
@@ -32,7 +32,7 @@ permalink: /program/
 	</tr>
 	<tr>
 		<td>16:00</td>
-		<td>Keynote (Florian Michahelles): In a World of Industry 4.0 Machines and Humans Shake Hands</td>
+		<td>Keynote (Florian Michahelles): <a href="#keynote-florian">As We May Work - Free Minds from Routines and Enable Creativity and Intuition</a></td>
 	</tr>
 	<tr>
 		<td>16:30</td>
@@ -54,6 +54,12 @@ permalink: /program/
 
 
 <h2>Keynotes</h2>
+
+<h3 id="keynote-florian">Florian Michahelles: As We May Work - Free Minds from Routines and Enable Creativity and Intuition</h3>
+
+**Speaker bio:** Florian Michahelles heads the Artificial & Human Intelligence research group at Siemens Corporate Technology in Berkeley, California. Florian investigates new approaches of wrapping AI as a handy tool for human users achieving their tasks more effectively. Before joining Siemens, Florian has lead the Auto-ID Labs research consortium at ETH Zurich, he has a Ph.D. from ETH Zurich and a Master’s degree from LMU Munich, both in computer science. He has authored 100+ scientific articles in the field of Internet of Things, Wearable Computing, and Industry 4.0.
+
+**Abstract:** As automation, digitalization and artificial decision-making are advancing, various stakeholders of our society are asking: What’s in it for us? Do we want to live in this world? What’s left to do for us? This talk will address these fears by proposing a more positive vision of machines and humans shaking hands and integrating their strenghts. The talk will build upon the notion of digital companions and present different examples of human-machine collaboration where machines take-over the recurring routine processes and decisions and free humans’ minds for focusing on the more creative parts. The talk concludes on finding the sweet spots of human-machine collaboration, proposes future research directions and opens the field for discussion.
 
 <h3 id="keynote-mike">Mike Amundsen: "Such a rich set of affordances" - Mapping the Hyperagent Ecosystem</h3>
 
