@@ -89,6 +89,8 @@ This talk explores the intersection of biology, psychology, and techology and po
 
 **Abstract:** This paper explores the intersection between microservices and Multi-Agent Systems (MAS), introducing an approach to building MAS known as Multi-Agent MicroServices (MAMS). This approach is motivated in the context of the main properties of microservices and is illustrated through a worked example of a Vickrey Auction implemented as a microservice. The motivation for this work is to facilitate the creation of MAS that can be deployed using the same infrastructure as Hypermedia Systems; offering a closer and more natural integration with hypermedia resources. Further, we believe that our approach enables the creation of reusable components that can be interwoven within both larger MAS and more traditional microservices ecosystems.
 
+<a href="/assets/papers/hyper01.pdf">Read full paper</a>
+
 <h3 id="paper-kritzler">Digital Companion for Industry (Short paper)</h3>
 
 **Authors:** Mareike Kritzler, Jack Hodges, Dan Yu, Kimberly Garcia, Hemant Shukla, and Florian Michahelles
@@ -100,3 +102,6 @@ This talk explores the intersection of biology, psychology, and techology and po
 **Authors:** Alexandru Sorici, Andrei Olaru, and Adina Magda Florea
 
 **Abstract:** Deploying context management systems at a global scale comes with a number of challenges and requirements. We argue that the hypermedia model and the agent-oriented paradigm help achieve the vision of Context-as-a-Service. We categorize challenges according to context processing concerns and use a scenario to exemplify how the proposed architectural principles help overcome the challenges.
+
+<a href="/assets/papers/hyper03s.pdf">Read full paper</a>
+
