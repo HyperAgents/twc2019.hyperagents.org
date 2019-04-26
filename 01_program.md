@@ -97,6 +97,8 @@ This talk explores the intersection of biology, psychology, and techology and po
 
 **Abstract:** The industrial domain offers a high degree of standardization, a variety of very specialized use cases, and an abundance of resources. These characteristics provide perfect conditions for Digital Companion systems. A Digital Companion is a cognitive agent that assists human users by taking on three roles: as guardians, assistants or mentors, and partners. This paper describes the characteristics, conceptual architecture, use cases and open challenges regarding Digital Companions for industry.
 
+<a href="/assets/papers/hyper02s.pdf">Read full paper</a>
+
 <h3 id="paper-sorici">Towards Enabling Internet-Scale Context-as-a-Service (Short paper)</h3>
 
 **Authors:** Alexandru Sorici, Andrei Olaru, and Adina Magda Florea
