@@ -80,6 +80,8 @@ This talk explores the intersection of biology, psychology, and techology and po
 
 **Abstract:** If a main inspiration for the OOP paradigm is our world of objects, the main inspiration for the agent paradigm is our world of humans, from how individual humans autonomously do their tasks, to how they communicate, how they design and use their tools and artifacts to work with, how they coordinate and cooperate in organisations. This level of abstraction makes the paradigm particularly interesting for the design and development of complex systems, featuring different degrees of decentralisation, distribution, openness, flexibility, autonomy. The objective of this talk is first to introduce some key points of this paradigm - referred to as Multi-Agent Oriented Programming (MAOP) - in practice, using JaCaMo as a concrete platform. Second, to provide some points of reflection and discussion about MAOP and the development of Hypermedia MAS.
 
+<a href="https://doi.org/10.1016/j.scico.2011.10.004">Read full paper</a>
+
 
 <h2>Accepted Papers</h2>
 
